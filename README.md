@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Erik. I'm happy! And you?
 
 <!--
 **DJ-UKOL/DJ-UKOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
