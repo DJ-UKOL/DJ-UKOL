@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-<link rel="stylesheet" type="text/css" href="https://github.com/DJ-UKOL/DJ-UKOL/blob/main/resume.css">
+<link rel="stylesheet" type="text/css" href="resume.css">
 </head>
 <body>
   <div class="conteiner">
