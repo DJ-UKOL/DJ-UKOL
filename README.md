@@ -1,16 +1,11 @@
-### Hello, my name is Erik. I'm happy! And you?
-
-<!--
-**DJ-UKOL/DJ-UKOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="contact-info" class="vcard">
+<h1 class="fn">Эрик Динмухаметов</h1>
+<p>
+Email: <a class="email" href="mailto:ukolists@gmail.com">ukolists@gmail.com</a>
+            </p>
+</div>        
+<div id="objective">
+  <p>
+    Java-backend developer
+  </p>
+</div>
