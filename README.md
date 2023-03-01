@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <head>
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
   <div class="conteiner">
     <div class="header">
       <div class="photo">
-        <img src="https://github.com/DJ-UKOL/DJ-UKOL/blob/main/2022-08-05%2016-53-55_1660046129773.JPG" width="160" height="200"/>
+        <img src="2022-08-05%2016-53-55_1660046129773.JPG" width="160" height="200"/>
       </div>
       <div class="author">
         <div class="info_box">
