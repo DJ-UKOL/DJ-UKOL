@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-<link rel="stylesheet" type="text/css" href="resume.css">
+<link rel="stylesheet" type="text/css" href="css/resume.css">
 </head>
 <body>
   <div class="conteiner">
