@@ -1,8 +1,12 @@
+<!DOCTYPE html>
+<head>
+<link rel="stylesheet" type="text/css" href="https://github.com/DJ-UKOL/DJ-UKOL/blob/main/resume.css">
+</head>
 <body>
   <div class="conteiner">
     <div class="header">
       <div class="photo">
-        <img src="https://github.com/DJ-UKOL/DJ-UKOL/blob/main/2022-08-05%2016-53-55_1660046129773.JPG?raw=true" />
+        <img src="https://github.com/DJ-UKOL/DJ-UKOL/blob/main/2022-08-05%2016-53-55_1660046129773.JPG?raw=true"/>
       </div>
       <div class="author">
         <div class="info_box">
@@ -23,17 +27,14 @@
       <h3>Образование</h3>
       <hr>
       <p>
-        
       </p>
       <h3>Опыт работы</h3>
       <hr>
       <p>
-        
       </p>
       <h3>Интересы</h3>
       <hr>
       <p>
-        
       </p>
       <h3>Контакты</h3>
       <hr>
@@ -45,8 +46,6 @@
           <img src="//img/userpic.png" /><a href="tel:+1234567890">+79191428935</a>
         </li>
       </ul>
-
     </div>
-
   </div>
 </body>
