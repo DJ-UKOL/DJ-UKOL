@@ -40,10 +40,10 @@
       <hr>
       <ul class="contacts">
         <li>
-          <img src="//img/userpic.png" /><a href="mailto:contact@inbox.com">ukolists@gmail.com</a>
+          <img src="email.png" /><a href="mailto:contact@inbox.com">ukolists@gmail.com</a>
         </li>
         <li>
-          <img src="//img/userpic.png" /><a href="tel:+1234567890">+79191428935</a>
+          <img src="tele.png" /><a href="tel:+1234567890">+79191428935</a>
         </li>
       </ul>
     </div>
