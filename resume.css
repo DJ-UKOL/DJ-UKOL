@@ -65,12 +65,12 @@ p {
 a {
   text-decoration: none;
   color: #3498db;
+  vertical-align: middle;
 }
 
 li {
   margin: 10px 0;
   list-style-type: none;
-  vertical-align: middle;
 }
 
 img {
