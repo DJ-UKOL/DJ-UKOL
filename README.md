@@ -6,7 +6,7 @@
   <div class="conteiner">
     <div class="header">
       <div class="photo">
-        <img src="https://github.com/DJ-UKOL/DJ-UKOL/blob/main/2022-08-05%2016-53-55_1660046129773.JPG?raw=true"/>
+        <img src="https://github.com/DJ-UKOL/DJ-UKOL/blob/main/2022-08-05%2016-53-55_1660046129773.JPG?raw=true" width="150" height="200"/>
       </div>
       <div class="author">
         <div class="info_box">
