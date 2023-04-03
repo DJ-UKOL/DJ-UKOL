@@ -5,4 +5,5 @@
   
 #### [Мое резюме в PDF](https://github.com/DJ-UKOL/DJ-UKOL/raw/main/Resume_JAVA.pdf)
 
+#### [Профиль на cyberforum.ru](https://www.cyberforum.ru/members/51457.html)
 
